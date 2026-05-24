@@ -257,7 +257,7 @@ A full-stack analytics platform with real-time data visualization, predictive mo
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE?theme=dark&font=JetBrains%20Mono&ext=activity)](https://leetcode.com/YOUR_LEETCODE)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/rishab0003?theme=dark&font=JetBrains%20Mono&ext=activity)](https://leetcode.com/rishab0003)
 
 </div>
 
