@@ -210,15 +210,15 @@ A full-stack analytics platform with real-time data visualization, predictive mo
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=a8b2d8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rishab0003&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=a8b2d8"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=a8b2d8&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishab0003&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=a8b2d8&langs_count=8"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=ff6b35&currStreakLabel=00ff41&sideLabels=a8b2d8&dates=a8b2d8" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rishab0003&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=ff6b35&currStreakLabel=00ff41&sideLabels=a8b2d8&dates=a8b2d8" alt="GitHub Streak"/>
 
 </div>
 
@@ -229,7 +229,7 @@ A full-stack analytics platform with real-time data visualization, predictive mo
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB&theme=react-dark&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true)](https://github.com/YOUR_GITHUB)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rishab0003&theme=react-dark&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true)](https://github.com/rishab0003)
 
 </div>
 
@@ -263,8 +263,7 @@ A full-stack analytics platform with real-time data visualization, predictive mo
 
 | Platform | Handle | Focus |
 |----------|--------|-------|
-| 🟡 LeetCode | [YOUR_LEETCODE](https://leetcode.com/YOUR_LEETCODE) | DSA · Problem Solving |
-| 🔵 Codeforces | [YOUR_CF](https://codeforces.com/profile/YOUR_CF) | Competitive Programming |
+| 🟡 LeetCode | [YOUR_LEETCODE](https://leetcode.com/rishab0003) | DSA · Problem Solving |
 
 ---
 
