@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- TERMINAL HEADER ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=700&height=100&lines=%24+whoami;RISHAB MAHATO" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=700&height=100&lines=%24+whoami;RISHAB+MAHATO" alt="Typing SVG" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=800&color=A8B2D8&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Backend+Engineer+%7C+AI%2FML+Builder+%7C+Security+Minded;Java+%7C+MERN+%7C+Python+%7C+DSA+%7C+Data+Science;Building+systems+that+scale.+Breaking+things+that+shouldn't." alt="Subtitle Typing" />
 
