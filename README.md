@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- TERMINAL HEADER ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=700&height=100&lines=%24+whoami;YOUR_NAME" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=700&height=100&lines=%24+whoami;RISHAB MAHATO" alt="Typing SVG" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=800&color=A8B2D8&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Backend+Engineer+%7C+AI%2FML+Builder+%7C+Security+Minded;Java+%7C+MERN+%7C+Python+%7C+DSA+%7C+Data+Science;Building+systems+that+scale.+Breaking+things+that+shouldn't." alt="Subtitle Typing" />
 
@@ -235,7 +235,7 @@ A full-stack analytics platform with real-time data visualization, predictive mo
 
 ---
 
-<!-- CONTRIBUTION SNAKE -->
+<!-- CONTRIBUTION SNAKE 
 ### `$ ./snake --eat-contributions`
 
 <div align="center">
@@ -250,7 +250,7 @@ A full-stack analytics platform with real-time data visualization, predictive mo
 
 </div>
 
----
+--- -->
 
 <!-- DSA / CP SECTION -->
 ### `$ ./competitive_programming --status`
@@ -281,7 +281,7 @@ A full-stack analytics platform with real-time data visualization, predictive mo
 ---
 
 <!-- CONNECT SECTION -->
-### `$ ssh connect@YOUR_NAME`
+### `$ ssh connect@Rishab`
 
 ```bash
 $ ping YOUR_NAME
@@ -294,10 +294,10 @@ $ ping YOUR_NAME
 
 Open to **backend roles**, **AI/ML projects**, **security research**, and **ambitious side quests**.
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/rishab-mahato-a87a14247/">
   <img src="https://img.shields.io/badge/Let's_Connect-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:YOUR_GMAIL">
+<a href="mailto:rishabmahato110@gmail.com">
   <img src="https://img.shields.io/badge/Drop_a_Mail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="YOUR_PORTFOLIO_URL">
